@@ -1,11 +1,11 @@
-# TOTOLINK N600R V5.3c.7159_B20190425 Has an command injection vulnerability
+# TOTOLINK N600R V5.3c.5507_B20171031 Has an command injection vulnerability
 
 ## Overview
 
 - **Type**: command injection vulnerability
 - **Vendor**: TOTOLINK (https://www.totolink.net/)
-- **Products**: WiFi Router, such as N600R V5.3c.7159_B20190425
-- **Firmware download address:**http://www.totolink.cn/data/upload/20210717/bc2b1d2206c4a7b1753c3d870cb15bff.zip
+- **Products**: WiFi Router, such as N600R V5.3c.5507_B20171031
+- **Firmware download address:**https://www.totolink.net/data/upload/20200728/f984576c47289d782ed65e67edbf06e2.zip
 
 
 
@@ -13,7 +13,7 @@
 
 ### 1.Product Information:
 
-TOTOLINK N600R V5.3c.7159_B20190425 router, the latest version of simulation overview：
+TOTOLINK N600R V5.3c.5507_B20171031 router, the latest version of simulation overview：
 
 ![Figure 1 Update date of the latest version of the firmware](image/1.png)
 
@@ -21,7 +21,7 @@ TOTOLINK N600R V5.3c.7159_B20190425 router, the latest version of simulation ove
 
 ### 2. Vulnerability details
 
-TOTOLINK N600R V5.3c.7159_B20190425 was discovered to contain a command injection vulnerability in the "Main" function. This vulnerability allows attackers to execute arbitrary commands via the QUERY_STRING parameter.
+TOTOLINK N600R V5.3c.5507_B20171031 was discovered to contain a command injection vulnerability in the "Main" function. This vulnerability allows attackers to execute arbitrary commands via the QUERY_STRING parameter.
 
 ![Figure 2 Local of the vulnerability](image/2.png)
 
