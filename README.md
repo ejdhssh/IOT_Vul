@@ -15,7 +15,7 @@
 
 TOTOLINK N600R V5.3c.5507_B20171031 router, the latest version of simulation overview：
 
-![Figure 1 Update date of the latest version of the firmware](image/1.png)
+![Figure 1 Update date of the latest version of the firmware](image/4.png)
 
 
 
